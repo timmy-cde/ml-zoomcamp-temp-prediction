@@ -1,7 +1,0 @@
-Sources:
-
-Philippine Typhoon Tracks (Category 4 and 5) from 2012 - 2016
-https://data.humdata.org/dataset/philippine-typhoon-tracks-category-4-and-5-from-2012-2016
-
-Philippine Cities Weather Data (2024)
-https://www.kaggle.com/datasets/bwandowando/philippine-cities-weather-data-ytd-2024

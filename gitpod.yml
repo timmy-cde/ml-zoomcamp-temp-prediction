@@ -1,0 +1,6 @@
+tasks:
+  - name: env-setup
+    init: |
+      pyenv install -f 3.11
+      pyenv global 3.11
+      pip install numpy pandas scikit-learn seaborn jupyter tqdm flask gunicorn pipenv xgboost

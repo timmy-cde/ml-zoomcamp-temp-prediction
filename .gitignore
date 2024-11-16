@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*/**/.ipynb_checkpoints/
+*.zip
+*.csv
+data/2024/
+data/2020-2023/
