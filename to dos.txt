@@ -1,0 +1,11 @@
+add to data
+- cyclic encoding of dates (sine, cosine)
+- one-hot encoding of weather code
+- 
+
+
+Linear Reg
+Random Forest Reg
+Decision Tree Reg
+Gradient Boosting (XGBoost)
+CNN

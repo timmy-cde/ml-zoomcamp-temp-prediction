@@ -13,8 +13,10 @@ tqdm = "*"
 flask = "*"
 gunicorn = "*"
 xgboost = "*"
+tensorflow = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
