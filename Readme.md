@@ -93,6 +93,12 @@ Build docker image inside the `code` directory
 docker build -t temp_prediction:v1 .
 ```
 
+Alternatively, you can pull the image from docker hub
+
+```bash
+docker pull timmycde/temp_prediction:v1
+```
+
 Run docker image
 
 ```bash
