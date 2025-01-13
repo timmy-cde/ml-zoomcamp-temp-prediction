@@ -4,21 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-numpy = "==2.0.2"
-pandas = "==2.2.3"
-scikit-learn = "==1.5.1"
-seaborn = "==0.13.2"
-jupyter = "*"
-tqdm = "==4.67.0"
-xgboost = "==2.1.2"
-tensorflow = "==2.18.0"
-pyarrow = "*"
 cloudpickle = "==3.1.0"
 flask = "==3.1.0"
+pandas = "==2.2.3"
 gunicorn = "==23.0.0"
+scikit-learn = "==1.5.1"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.11"
