@@ -37,7 +37,7 @@ It also a total of 44 parameters and its definitions can be found at [open-mateo
  │  ├─── model.bin
  │  ├─── Pipfile
  │  ├─── Pipfile.lock
- │  └─── predicy.py
+ │  └─── predict.py
  ├─📂 data
  │  ├─── combined_hourly_data_mnl.parquet     <--- cleaned data in parquet format
  │  ├─── Readme.md                            <--- links for downloading the dataset
